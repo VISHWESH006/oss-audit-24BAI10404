@@ -156,7 +156,7 @@ chmod +x scripts/*.sh
 | `coreutils` | `du`, `df`, `date`, `wc` | Pre-installed | Pre-installed |
 | `grep` | Scripts 2, 3, 4 | Pre-installed | Pre-installed |
 
-All scripts are compatible with **Bash 4.0+** and tested on Ubuntu 22.04 and Fedora 38.
+All scripts are compatible with **Bash 4.0+** and tested on Ubuntu 22.04 and Fedora 38..
 
 ---
 
