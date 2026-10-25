@@ -10,7 +10,7 @@
 | **Submission** | VITyarthi Portal |
 
 ---
-
+---
 ## About This Project
 
 This repository is a structured open-source audit of **Python** — one of the most widely used programming languages in the world, governed entirely by a community-driven foundation and released under the permissive Python Software Foundation (PSF) License.
